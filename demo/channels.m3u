@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://evelioornelas.github.io/lantern-privacy/demo/guide.xml"
+#EXTINF:-1 tvg-id="demo.bbb" tvg-name="Big Buck Bunny" group-title="Films",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="demo.tos" tvg-name="Tears of Steel" group-title="Films",Tears of Steel
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-id="demo.bipbop" tvg-name="Bip Bop Test" group-title="Test Signals",Bip Bop Test
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="demo.bipbop169" tvg-name="Bip Bop 16:9" group-title="Test Signals",Bip Bop 16:9
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
