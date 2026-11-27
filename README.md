@@ -1,3 +1,3 @@
-# Lantern privacy policy
+# Velada privacy policy
 
-The privacy policy for Lantern on iPhone and Apple TV, published at https://evelioornelas.github.io/lantern-privacy/
+The privacy policy and support page for Velada (formerly Lantern) on iPhone and Apple TV, published at https://evelioornelas.github.io/velada-privacy/

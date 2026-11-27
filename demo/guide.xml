@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Lantern demo guide for App Review: freely licensed test streams only. Covers 2026-11-22 to 2027-04-01 (UTC). -->
-<tv generator-info-name="Lantern demo">
+<!-- Velada demo guide for App Review: freely licensed test streams only. Covers 2026-11-22 to 2027-04-01 (UTC). -->
+<tv generator-info-name="Velada demo">
   <channel id="demo.bbb"><display-name>Big Buck Bunny</display-name></channel>
   <channel id="demo.tos"><display-name>Tears of Steel</display-name></channel>
   <channel id="demo.bipbop"><display-name>Bip Bop Test</display-name></channel>

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://evelioornelas.github.io/lantern-privacy/demo/guide.xml"
+#EXTM3U url-tvg="https://evelioornelas.github.io/velada-privacy/demo/guide.xml"
 #EXTINF:-1 tvg-id="demo.bbb" tvg-name="Big Buck Bunny" group-title="Films",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="demo.tos" tvg-name="Tears of Steel" group-title="Films",Tears of Steel

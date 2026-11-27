@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Velada Support</title>
+<meta name="description" content="Help and contact for Velada, the media player for iPhone and Apple TV.">
+<style>
+  :root { --ground:#0C1220; --panel:#151D32; --text:#F4EEE3; --muted:#9AA3B5; --amber:#F5A626; }
+  @media (prefers-color-scheme: light) {
+    :root { --ground:#FAF6EE; --panel:#FFFFFF; --text:#0C1220; --muted:#5B6578; --amber:#A85F00; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--ground); color:var(--text);
+         font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 20px 64px; }
+  h1 { font-size: 34px; line-height:1.15; margin: 0 0 6px; }
+  .date { color: var(--muted); margin: 0 0 32px; }
+  section { background: var(--panel); border-radius: 16px; padding: 20px 22px; margin: 0 0 14px; }
+  h2 { font-size: 19px; margin: 0 0 6px; display:flex; align-items:center; gap:10px; }
+  h2::before { content:""; width:3px; height:18px; border-radius:2px; background:var(--amber); flex:none; }
+  p { margin: 0; color: var(--muted); }
+  p + p { margin-top: 10px; }
+  a { color: var(--amber); }
+  footer { color: var(--muted); font-size: 15px; margin-top: 28px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Velada Support</h1>
+  <p class="date">For Velada on iPhone and Apple TV</p>
+
+  <section>
+    <h2>What Velada is</h2>
+    <p>Velada is a media player for iPhone and Apple TV. It plays videos from your own media servers (such as Jellyfin, Emby or Plex) and the live TV sources you add, and can keep your watch history in step with Trakt or Simkl. Velada doesn't provide, host or sell any content.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Questions, problems or requests: open an issue at <a href="https://github.com/EvelioOrnelas/velada-privacy/issues">github.com/EvelioOrnelas/velada-privacy</a>.</p>
+    <p>If something won't play, the Playback Log helps: on iPhone it's in Settings → General → Playback Log, on Apple TV in Settings → Video Player → Playback Log.</p>
+  </section>
+
+  <section>
+    <h2>Erasing your data</h2>
+    <p>On iPhone: Settings → General → Erase All Content &amp; Settings. On Apple TV: Settings → About → Erase All Content &amp; Settings. Either one removes everything Velada stored on that device and in your iCloud, and signs you out of every server and service.</p>
+  </section>
+
+  <section>
+    <h2>Privacy</h2>
+    <p>Velada has no accounts, ads, analytics or tracking. Read the full <a href="../">privacy policy</a>.</p>
+  </section>
+
+  <footer>Velada plays media from your own servers and live TV sources. It doesn't provide, host or sell any content.</footer>
+</main>
+</body>
+</html>
